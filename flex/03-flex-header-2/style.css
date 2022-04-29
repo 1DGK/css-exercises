@@ -30,6 +30,10 @@ body {
   display: flex;
 }
 
+.right-side {
+  display: flex;
+}
+
 .logo {
   color: rebeccapurple;
   font-size: 32px;
