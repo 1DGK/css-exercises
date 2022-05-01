@@ -18,29 +18,39 @@ img {
   width: 200px;
   display: flex;
   flex-direction: column;
+  padding: 26px;
 }
 
 .chili {
   width: 200px;
   display: flex;
   flex-direction: column;
+  padding: 26px;
+
 }
 
 .pepper {
   width: 200px;
   display: flex;
   flex-direction: column;
+  padding: 26px;
+
 }
 
 .saffron {
   width: 200px;
   display: flex;
   flex-direction: column;
+  padding: 26px;
+
 }
 
-.flowers {
+.container {
   display: flex;
+  justify-items: center;
+  height: 50vh;
 }
+
 
 /* do not edit this footer */
 .footer {
