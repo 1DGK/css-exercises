@@ -11,6 +11,35 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  padding-bottom: 32px;
+}
+
+.barberry {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.chili {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.pepper {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.saffron {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.flowers {
+  display: flex;
 }
 
 /* do not edit this footer */
