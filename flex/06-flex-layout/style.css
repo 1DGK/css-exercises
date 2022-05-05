@@ -5,8 +5,29 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+}
+
+.header {
   display: flex;
-  flex-direction: column;
+/*  justify-content: space-between;*/
+}
+
+.footer {
+  display: flex;
+}
+
+.left-links {
+  display: flex;
+  gap: 20px;
+  margin-right: auto;
+  padding: 20px;
+}
+
+.right-links {
+  display: flex;
+  gap: 20px;
+  margin-left: auto;
+  padding: 20px;
 }
 
 img {
