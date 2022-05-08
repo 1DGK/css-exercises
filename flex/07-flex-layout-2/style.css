@@ -8,12 +8,23 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  font-size: 32px;
+  font-weight: 900;
+  padding-left: 16px;
+  align-items: center;
+  display: flex;
 }
 
 .footer {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
 }
 
 .sidebar {
