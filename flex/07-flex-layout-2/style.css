@@ -32,9 +32,16 @@ body {
   background: royalblue;
   position: fixed;
   height: 100%;
+  font-size: 24px;
 }
 
-.card {
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.item {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
@@ -48,8 +55,4 @@ a {
 
 ul {
   list-style: none;
-}
-
-.card-container {
-  display: flex;
 }
