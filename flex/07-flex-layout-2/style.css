@@ -27,18 +27,19 @@ body {
   justify-content: center;
 }
 
+.sidebar-container {
+  display: flex;
+}
+
 .sidebar {
-  width: 300px;
+  min-width: 300px;
   background: royalblue;
-  position: fixed;
-  height: 100%;
   font-size: 24px;
+  align-self: stretch;
 }
 
 .container {
   display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .item {
