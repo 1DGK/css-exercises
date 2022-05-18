@@ -38,10 +38,6 @@ body {
   align-self: stretch;
 }
 
-.container {
-  display: flex;
-}
-
 .item {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
